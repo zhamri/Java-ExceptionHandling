@@ -4,7 +4,7 @@
 2. throw
 3. throws
 
-##Related videos:
+## Related videos:
 
 1. [Java Exception with simple examples| InterruptedException ArithmeticException InputMismatchException](https://youtu.be/q49UtIDL7ps)
 
