@@ -4,6 +4,15 @@
 2. throw
 3. throws
 
-## YouTube
+##Related videos:
 
-[JNote --> Exception Handling](https://www.youtube.com/watch?v=q49UtIDL7ps&list=PLUAPloemj66OL_CpVCj5XKVWMPnEcOXOZ)
+1. [Java Exception with simple examples| InterruptedException ArithmeticException InputMismatchException](https://youtu.be/q49UtIDL7ps)
+
+1. [Java Exception | Legal and illegal in try..catch..finally](https://youtu.be/Rk6tDzB_efg)
+
+1. [Java Exception | "throw" keyword](https://youtu.be/elQHRzHvdAo)
+
+1. [Java Exception | "throws" keyword](https://youtu.be/VZuLUQwvfDY)
+
+## YouTube Channel
+* [JavaDeveloperNotes (JNotes)](https://bit.ly/JNotes)
